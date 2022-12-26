@@ -21,24 +21,24 @@ print("Alamat \t : %s" %dict["Alamat"])
 #No 3
 Kata = ["UNISS", "di", "belajar", "pada", "Mahasiswa", "data", "ruang",
 "lab", "struktur", "semester", "tema", "Array", "String","dan", "di", "dengan", "Batang",3]
-A=Kata[4]
-B=Kata[1]
-C=Kata[0]
-D=Kata[16]
-E=Kata[9]
-F=Kata[17]
-G=Kata[2]
-H=Kata[14]
-I=Kata[6]
-J=Kata[7]
-K=Kata[15]
-L=Kata[10]
-M=Kata[11]
-N=Kata[12]
-O=Kata[13]
-P=Kata[8]
-Q=Kata[5]
-print (A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q)
+A=Kata[4] #mahasiswa
+B=Kata[0] #UNISS
+C=Kata[16] #Batang
+D=Kata[9] #semester
+E=Kata[17] #3
+F=Kata[2] #belajar
+G=Kata[8] #struktur
+H=Kata[5] #Data
+I=Kata[1] #Di
+J=Kata[6]  #Ruang
+K=Kata[7] #Lab
+L=Kata[15] #Dengan
+M=Kata[10] #Tema
+N=Kata[11] #Array
+O=Kata[13] #Dan
+P=Kata[12] #String
+
+print (A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P)
 
 #no 4
 from array import *
